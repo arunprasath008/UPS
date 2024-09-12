@@ -1,0 +1,1 @@
+alias hy="history"
