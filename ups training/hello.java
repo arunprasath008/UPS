@@ -16,7 +16,7 @@ class Motorcycle extends Vehicle {
     }
 }
 
-public class Main {
+public class hello {
     public static void main(String[] args) {
         Vehicle genericVehicle = new Vehicle();
         Vehicle Motorcycle= new Motorcycle();
